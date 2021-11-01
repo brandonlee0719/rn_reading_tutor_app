@@ -1,0 +1,22 @@
+export default {
+    white:              '#ffffff',
+    orange:             '#e89309',
+    lightBlueGrey:      '#78788c',
+    superLightBlueGrey: '#bbbcc6',
+    extraLightBlueGrey: '#e4e4eb',
+    blueGrey:           '#5d5e6e',
+    darkBlueGrey:       '#292a49',
+    grey:               '#cccccc',
+    lightGrey:          '#f2f2f2',
+    green:              '#8cc73c',
+    lightGreen:         '#9fde49',
+    darkGreen:          '#7fb13e',
+    lightRed:           '#fa795c',
+    red:                '#e50b1f',
+    yellow:             '#f7ca0a',
+    darkYellow:         '#e08700',
+    opaqueYellow:       '#deb538',
+    imgGrayBackGround : '#E5E5E5',
+    navigationtitle : '#343553',
+    transparent : "transparent"
+}
